@@ -1,5 +1,5 @@
 def e_cuadratica(n):
-    # Implemente esta función
+    
     return 0
 
 
