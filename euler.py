@@ -1,6 +1,5 @@
 import math
 
-
 def e_cuadratica(n):
     i=0
     result = 0
@@ -9,7 +8,6 @@ def e_cuadratica(n):
     	i+=1
     return result
 
-
 def e_lineal(n):
     i=0
     result = 0
@@ -17,7 +15,6 @@ def e_lineal(n):
     	result += 1/fact(i)
     	i+=1
     return result
-    	
 
 def fact(n):
     res=1
